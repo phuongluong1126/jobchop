@@ -1,0 +1,202 @@
+Id,Job Title,Skill
+1,Android Developer (Kotlin/Java),python|c++|kotlin|java|ai|unity|
+2,iOS Developer (Objective C / C++),python|c++|ai|ios|unity|system|
+3,C++ Developer (OOP/Linux),c++|ai|oop|algorithm|data structure|ios|linux|test|
+4,Android Engineer (Java/Kotlin/Flutter),english|kotlin|java|rest|ai|flutter|test|system|
+5,Javascript BE Developer for ServiceNow,english|java|javascript|rest|soap|webservice|.net|system|agile|scrum|
+6,"05 .Net Developers (ASP.NET, Agile)",english|asp|.net|.net core|ci/cd|docker|azure|git|agile|scrum|
+7,"IAM Engineers (JAVA, IAM)",english|java|javascript|html|iis|tomcat|weblogic|ibm|rest|soap|ml|ai|j2ee|angular|apache|cloud|azure|test|aws|sql server|mysql|oracle|access|ssl|tls|
+8,Mid/Senior Web Frontend Engineer,ai|cloud|aws|agile|
+9,"Senior PHP Developer (Laravel, OOP)",english|php|rest|ci/cd|erp|laravel|oop|cloud|git|test|unit test|aws|system|
+10,"[VR Project] 3D Unity Games (C#,OOP) ~4K",english|c#|game|oop|unity|git|
+11,ReactJS Devs (1-Month Signing Bonus),english|java|css|.net|react|cloud|azure|aws|sql server|
+12,Manual QA/QC Engineer (Web - HCM/Hybrid),english|html|rest|ml|hybrid|xml|json|test|qa|qc|agile|scrum|
+13,"IT Helpdesk (System admin, Networking)",system|
+14,Senior S/W Engineer (C/C++/C#/Python),python|c#|c++|
+15,Frontend Developer,typescript|english|java|javascript|html|css|jquery|ml|ai|angular|vue|react|typescript|
+16,UI/UX Designer,ai|designer|
+17,"Unity Developer (Games, Agile)",c++|java|node|game|unity|system|nosql|agile|scrum|
+18,Junior/Senior Data Engineer - BONUS,english|c#|java|javascript|rest|ai|cloud|azure|aws|agile|scrum|
+19,[HAN] Golang Developer - Up to $2500,golang|ci/cd|cloud|docker|
+20,[HN] FrontEnd Dev (ReactJS) - Upto $1700,java|javascript|html|css|rest|ml|vue|react|node|
+21,"Lead Software Developer (Java, Oracle)",java|rest|ai|spring|erp|linux|oracle|agile|
+22,Mobile Dev (Android/React Native/iOS),english|ai|react|ios|test|
+23,Full-stack engineer (Nodejs),typescript|java|javascript|html|css|rest|ml|ai|express|react|node|typescript|apache|cloud|linux|docker|kubernetes|mysql|firebase|postgresql|redis|
+24,10 Java Fullstack Dev (Senior & Junior),python|c#|c++|java|html|css|ruby|.net|ml|spring|ios|aws|
+25,Java Developer,java|html|css|rest|mvc|ml|spring|j2ee|oop|xml|json|git|test|mysql|
+26,"Senior Mobile Engineer ( iOS, Android )",typescript|responsive|react|node|typescript|ios|test|agile|
+27,"Java Backend Developer (Spring, SQL)",english|java|rest|spring|j2ee|nosql|
+28,Cloud Data Scientist,python|java|rest|ai|oop|cloud|azure|hadoop|spark|aws|
+29,React Native Developer,typescript|english|java|javascript|ruby|ai|erp|ruby on rails|react|typescript|git|
+30,Senior Business Analyst (Up to 2k8),english|ai|agile|
+31,Senior iOS Developer (Objective C/Swift),english|swift|rest|react|ios|json|git|
+32,Senior PHP Developer (Laravel),english|java|javascript|html|css|php|ml|ai|laravel|react|ios|system|mysql|
+33,05 Tester,english|game|test|automation test|system|
+34,Fullstack Dev (JavaScript/Java/Python),english|python|java|javascript|rest|react|node|git|system|mysql|mongodb|postgresql|agile|
+35,05 Backend Dev ( NodeJS/MySQL/PotgreSQL),typescript|english|rest|express|node|typescript|microservice|docker|kubernetes|git|test|unit test|aws|system|mysql|mongodb|redis|
+36,Backend Dev(Python/Django)-Sign on bonus,python|rest|django|ci/cd|cloud|docker|kubernetes|test|unit test|integration test|system|mongodb|redis|agile|scrum|
+37,DevOps Engineer,python|ai|jenkins|ci/cd|erp|cloud|devop|linux|docker|kubernetes|azure|git|aws|
+38,Senior Manual Software Tester (QA QC),english|rest|ai|data structure|json|test|qa|qc|automation test|agile|scrum|
+39,Sr. Automation Software Tester (QA QC),java|rest|postman|ci/cd|git|test|qa|qc|automation test|selenium|agile|scrum|
+40,Product Manager (CRM),english|
+41,"Junior/Mid DevOps Engineers (Linux, AWS)",cloud|devop|linux|aws|system|mysql|mongodb|postgresql|redis|nosql|
+42,Data engineer,english|python|pandas|ai|data structure|system|
+43,FrontEnd Web (ReactJS/Fintech/JS/CSS),java|javascript|html|css|responsive|ml|ai|react|node|git|agile|scrum|
+44,"Remote QA Engineer (Tester, QA QC)",java|javascript|ai|test|qa|qc|agile|scrum|
+45,"Remote Data Engineer (Database, Python)",python|java|asp|ai|data structure|git|system|mysql|mongodb|nosql|
+46,"Remote Backend Dev (PHP, Python, Golang)",typescript|golang|python|php|ai|erp|typescript|oop|algorithm|data structure|system|
+47,Product Manager - Operational Excellence,english|system|
+48,Mobile Developer (React Native),java|javascript|rest|react|data structure|ios|
+49,"Full Stack Developer (C#, .Net, ReactJS)",c#|java|javascript|html|css|rest|.net|ml|ai|erp|vue|react|cloud|test|sql server|agile|
+50,Sr Backend Engineer (Golang/Cloud),typescript|english|golang|python|ai|node|typescript|algorithm|data structure|cloud|docker|kubernetes|azure|test|integration test|system|mysql|mongodb|postgresql|
+51,Frontend Lead,english|java|javascript|rest|vue|unity|test|
+52,NodeJS Developer (GraphQL) - Up to $1500,typescript|english|java|javascript|html|css|bootstrap|ml|ai|ci/cd|express|angular|vue|node|typescript|docker|system|mongodb|nosql|agile|scrum|
+53,Full-stack Developer (.NET/Angular),typescript|english|c#|java|javascript|html|css|responsive|rest|web api|bootstrap|jquery|asp|.net|.net core|mvc|ml|ai|angular|react|node|typescript|xml|json|cloud|docker|kubernetes|azure|git|test|unit test|aws|cassandra|mongodb|postgresql|elasticsearch|agile|scrum|
+54,[DI1] DevOps Engineer (AWS),ai|jenkins|cloud|devop|git|aws|
+55,"[DI1] Solution Architect (AWS, Java)",java|ai|cloud|devop|microservice|kubernetes|aws|agile|
+56,Web Developer (Có thể làm việc từ xa),typescript|english|python|java|javascript|html|css|php|responsive|ml|ai|flask|spring|j2ee|angular|vue|react|node|typescript|aws|elasticsearch|
+57,"Mobile Dev (React Native, ReactJS) 3000$",java|javascript|css|rest|bootstrap|react|json|git|
+58,PHP/Vue.js/MySQL/React.js,php|rest|mvc|laravel|express|vue|react|oop|docker|git|test|unit test|integration test|automation test|mysql|
+59,All levels C/C++ Engineer,english|c#|c++|.net|ai|erp|devop|linux|azure|system|oracle|agile|scrum|
+60,Software Engineer (Python/Django),english|python|asp|ai|django|cloud|linux|docker|aws|nosql|
+61,Frontend Developer (ReactJS),java|javascript|html|css|rest|ml|react|
+62,Business Analyst (English),english|java|ai|unity|agile|scrum|
+63,Senior Frontend Engineer (ReactJS/VueJS),english|java|javascript|html|css|ajax|ml|ai|jenkins|vue|react|node|algorithm|data structure|git|system|
+64,Senior Backend Engineer (Java),english|java|spring|oop|algorithm|data structure|hadoop|spark|system|mysql|mongodb|redis|
+65,Senior macOS Engineer (Objective-C/Swift,swift|ai|algorithm|data structure|ios|test|
+66,"(Senior) C/C++ Engineer, Windows App",c++|ai|algorithm|test|
+67,"Fullstack (NodeJS, Angular, ReactJS)",html|css|ml|angular|vue|react|node|docker|aws|system|mysql|postgresql|
+68,Senior iOS Engineer (Swift),english|swift|ai|algorithm|data structure|ios|git|system|
+69,"Remote Frontend Dev (ReactJS,Javascript)",typescript|java|javascript|html|css|ml|ai|react|node|typescript|git|
+70,Senior Android Engineer (Java/Kotlin),english|kotlin|java|ai|algorithm|data structure|git|system|
+71,"Back-End Developer (NodeJS, Java)",java|rest|mvc|ai|node|oop|apache|cloud|azure|aws|system|mysql|mongodb|
+72,"Android Developer (Java, Kotlin)",kotlin|java|ai|designer|
+73,CTO/IT Manager (Java/PHP) 40-60M + bonus,java|php|erp|
+74,"Product Specialist, Media",ai|
+75,"DevSecOps Engineer (Cloud, AWS)",ai|jenkins|cloud|linux|docker|git|aws|
+76,QA/QC Engineer (Fresher/Junior Tester),english|test|qa|qc|
+77,"Jr/Mid/Sr Python Developer (SQL, Django)",english|python|java|javascript|html|css|rest|ml|ai|django|jenkins|angular|vue|react|oop|apache|cloud|linux|docker|azure|git|hadoop|spark|test|unit test|integration test|aws|mysql|mongodb|postgresql|redis|nosql|
+78,"Java Developer (Spring, AWS)",java|spring|oop|kubernetes|aws|elasticsearch|
+79,Senior/Lead Frontend Developer,typescript|python|java|javascript|html|css|php|ruby|rest|soap|bootstrap|ml|ai|angular|vue|react|node|typescript|test|
+80,Senior IT Operator,english|ml|ai|erp|system|
+81,Automation Test Engineer (all level),english|ai|jenkins|ci/cd|git|test|automation test|selenium|webdriver|agile|scrum|
+82,Senior/Lead NodeJS Engineer,java|javascript|html|css|rest|ajax|ml|jenkins|express|angular|vue|react|node|oop|cloud|linux|docker|test|unit test|aws|
+83,"Unity Devs (Android, iOS) ~ $3000",c#|game|oop|ios|unity|git|
+84,PHP Developer (JavaScript/Laravel)~$1500,java|javascript|html|css|php|bootstrap|jquery|ajax|ml|laravel|angular|vue|react|xml|json|test|unit test|sql server|mysql|oracle|postgresql|
+85,JAVA Devs (MIN $1200 + signing BONUS),english|java|rest|ai|spring|algorithm|cloud|devop|azure|test|system|agile|scrum|
+86,Web App Angular Developer,java|javascript|html|css|ml|angular|
+87,C# .NET Windows App Developer,c#|.net|ai|winform|
+88,Manual Tester (QA QC/iOS/Web/Mac),english|ai|ios|test|qa|qc|system|agile|
+89,Senior UI Frontend Engineer (HTML/CSS),english|html|css|responsive|bootstrap|ml|ai|jenkins|angular|vue|react|algorithm|data structure|git|system|access|
+90,Frontend Dev (ReactJS/CSS) ~$3500,typescript|css|responsive|react|typescript|
+91,05 Backend Engineer (Golang) ~ $3000,golang|algorithm|cloud|test|unit test|integration test|
+92,03 Fullstack Engineer (Python) ~ $3000,python|java|javascript|html|css|ml|django|flask|
+93,Full-stack Engineer (Node/ReactJS/Java),english|java|css|ci/cd|spring|react|node|test|unit test|aws|agile|
+94,Oracle Database Engineer (SQL) Up to 35M,oracle|
+95,Full Stack Ruby on Rails Developer,english|java|javascript|html|css|ruby|rest|jquery|ml|ai|ruby on rails|angular|node|git|system|postgresql|
+96,Javascript Developer - ReactJS,english|java|javascript|responsive|bootstrap|react|node|docker|test|aws|mongodb|
+97,"Sr Software Engineers (PHP,Java,Golang)",golang|java|php|algorithm|data structure|test|selenium|aws|system|
+98,"Fullstack Developer (JavaScript, Python)",python|java|javascript|rest|xcode|gradle|
+99,Frontend Engineer (ReactJS) (Sr/Mid),english|java|javascript|html|css|jquery|ml|ai|react|
+100,Sr. Blockchain Developer(NodeJS/ReactJS),english|ai|react|node|system design|git|test|blockchain|system|
+101,"5 Senior PHP Developer (Laravel, MySQL)",english|php|rest|laravel|oop|json|git|test|mysql|postgresql|
+102,Sr. Robotics Engineer (ROS/Firmware),english|test|system|
+103,".NET Developer (C#, JavaScript) -> $1200",c#|java|javascript|html|css|web api|jquery|.net|.net core|mvc|entity framework|ml|angular|vue|react|oop|git|sql server|oracle|mongodb|redis|nosql|
+104,ReactJS Engineer for MessageMedia,english|java|javascript|html|css|rest|ml|ai|react|node|git|test|aws|agile|scrum|
+105,Backend Java Engineer,english|java|rest|ai|cloud|microservice|test|system|agile|
+106,Lead Java Engineer,english|java|javascript|rest|ai|ci/cd|spring|erp|angular|react|cloud|devop|microservice|kubernetes|test|system|mysql|agile|
+107,Quality Controller (Automation & Manual),english|postman|circleci|game|test|automation test|selenium|mysql|
+108,"Senior QA Automation, Backend (Remote)",python|java|rest|oop|hadoop|test|qa|agile|
+109,Front-End Dev (ReactJS) $ Sign-on Bonus,english|java|javascript|angular|vue|react|git|system|
+110,ReactJS Developer (Can remote),english|java|javascript|react|
+111,QA Engineer,english|soap|postman|ai|git|test|qa|selenium|agile|scrum|
+112,"Full-Stack Developer (Python, Django)",english|python|java|javascript|html|css|ml|django|ci/cd|angular|vue|react|cloud|test|unit test|integration test|cassandra|mongodb|redis|agile|
+113,Full-Stack Developer (Node.JS/React.JS),html|css|rest|ml|ci/cd|vue|react|node|cloud|docker|test|unit test|integration test|cassandra|mongodb|redis|agile|
+114,3 Ruby on Rails Developers-Up to USD2500,java|javascript|html|css|ruby|rest|bootstrap|jquery|ajax|mvc|ml|ai|ci/cd|ruby on rails|angular|oop|xml|json|cloud|microservice|docker|git|test|aws|mysql|oracle|postgresql|agile|
+115,SAP ABAP Team Leader (ERP),erp|
+116,Software Dev (JavaScript/Oracle/SQL),c#|java|javascript|html|css|jquery|ml|oracle|
+117,QA Manual,english|test|qa|qc|automation test|selenium|agile|
+118,"Backend Engineer (Java, Golang, Python)",golang|python|c++|java|javascript|linux|microservice|docker|kubernetes|system|cassandra|mongodb|redis|elasticsearch|
+119,Sr Automation Test Engineer (QC/Tester),golang|python|java|ai|vue|react|test|qc|automation test|
+120,SAP ABAP Developer (ERP/System Engineer),ai|erp|system|
+121,FullStack (NodeJS/ReactJS)-SignBonus~50M,english|html|css|responsive|asp|ml|vue|react|node|
+122,Technical Lead (Ruby/PHP/JavaScript),english|python|java|javascript|php|ruby|ai|node|game|system|
+123,Automation QA Engineer,english|java|ruby|rest|soap|ai|jenkins|erp|test|qa|selenium|nosql|
+124,Manual QA Engineer (QA/QC/Tester),test|qa|qc|agile|
+125,Product Owner (Up to $2000),ai|git|test|scrum|
+126,senior PHP Developer (Edtech Company),java|javascript|html|css|php|mvvm|jquery|mvc|ml|oop|system|mysql|
+127,.Net Developers (Up to $1700),english|c#|java|javascript|html|css|web api|asp|.net|mvc|ml|ai|erp|system|sql server|agile|
+128,Frontend Dev (NodeJS/NextJS/ReactJS),java|javascript|html|css|responsive|rest|ml|ai|react|node|git|test|mongodb|redis|nosql|trello|
+129,".NET Developers (MVC, MySQL)",web api|.net|.net core|mvc|angular|react|microservice|docker|sql server|mysql|mongodb|redis|elasticsearch|
+130,Business Analysis Manager (ZaloPay),python|ai|spark|
+131,Back-End Engineer - Python [Remote],english|python|c#|java|javascript|php|rest|django|flask|ci/cd|cloud|microservice|docker|test|unit test|elasticsearch|nosql|agile|
+132,Senior FrontEnd Developer (VueJS),java|javascript|rest|ai|vue|git|
+133,Data and System Architecture Specialist,ai|cloud|linux|docker|kubernetes|azure|aws|system|
+134,Front End Developer (Onboard after Tet),english|java|javascript|html|css|responsive|ml|ai|angular|vue|react|ios|git|system|
+135,Mobile Dev (Swift/Kotlin/ReactNative),english|kotlin|swift|ai|react|
+136,.NET Developer(ASP.NET Core/ReactJS),english|java|javascript|html|css|jquery|ajax|asp|.net|.net core|ml|ai|react|git|
+137,"Android Developer (Native, Kotlin)",english|kotlin|java|mvvm|mvc|erp|react|flutter|ios|cloud|aws|agile|
+138,"Frontend Dev (JavaScript, ReactJS) ~$3K",java|javascript|html|css|ml|ci/cd|react|json|cloud|devop|azure|git|test|aws|agile|
+139,"Sr Data Engineer (JavaScript, SQL) $3000",java|javascript|ai|game|cloud|blockchain|aws|
+140,Senior Software Engineer (Golang),golang|java|microservice|docker|kubernetes|cassandra|mysql|mongodb|postgresql|nosql|
+141,"FrontEnd Engineer (Javascript, Angular)",java|javascript|html|css|tomcat|ml|angular|react|apache|microservice|docker|nosql|
+142,".NET Developer (ASP. NET, C#)",c#|java|javascript|html|css|rest|bootstrap|jquery|asp|.net|.net core|mvc|entity framework|ml|sql server|redis|
+143,QA Engineer (Manual/Auto) - SignOn Bonus,english|java|postman|ai|jenkins|ci/cd|linux|docker|git|test|qa|automation test|selenium|system|sql server|agile|
+144,"Business Analyst (Tester, QA QC)",test|qa|qc|
+145,Database Team Leader,english|ai|ci/cd|erp|microservice|git|system|oracle|
+146,Principal Software Engineer- Java/Golang,golang|java|rest|algorithm|cloud|microservice|test|system|nosql|swagger|
+147,Junior Manual Tester (QA QC/English),english|ai|cloud|linux|test|qa|qc|system|agile|scrum|
+148,6 JavaScript Dev (~$2200)- Sign On Bonus,english|java|javascript|circleci|react|node|cloud|mongodb|
+149,"QA Engineer (Tester, QC) - Up to $1600",english|ai|test|qa|qc|selenium|webdriver|agile|
+150,Senior Software Engineer (React),java|javascript|html|css|responsive|rest|ml|ai|react|git|scrum|
+151,Senior Android Engineer (Java/Kotlin),english|kotlin|java|responsive|mvvm|rest|jenkins|ci/cd|json|microservice|git|test|unit test|gradle|
+152,"Sr System Dev (Kotlin, Kubernetes,Linux)",typescript|english|python|kotlin|java|vue|typescript|cloud|linux|docker|kubernetes|azure|git|aws|system|agile|
+153,Lead Android Engineer (Java/Kotlin),english|kotlin|java|responsive|mvvm|rest|jenkins|ci/cd|json|microservice|git|test|unit test|gradle|
+154,Senior IOS App Developer,ios|
+155,Senior Embedded Developer (C++),c++|test|
+156,"T2003 PHP Developer (Laravel, JS) ~35M",java|javascript|html|css|php|ml|laravel|oop|agile|scrum|
+157,VueJS Software Engineer (Open Remote),c#|rest|bootstrap|.net|ci/cd|vue|cloud|aws|system|nosql|
+158,[DI1] Senior Backend Developer,python|c#|java|ai|cloud|
+159,"[DI1] Senior Tester (QA/QC, AWS)",ai|cloud|test|qa|qc|aws|bitbucket|
+160,[DI1] Senior Data Engineer,ai|sql server|oracle|
+161,[DI1] Senior Java Developer,java|webservice|mvc|ai|ci/cd|spring|cloud|devop|microservice|
+162,PHP Developer (Laravel),php|rest|jquery|mvc|ai|laravel|vue|react|oop|git|mysql|
+163,Middle/Senior NodeJs Developer,rest|mvc|ai|express|vue|react|node|oop|docker|kubernetes|git|system|mongodb|postgresql|
+164,Senior Backend (Python/NodeJS) Remote,python|ai|django|flask|node|docker|git|aws|mysql|mongodb|
+165,15 Embedded Software Dev (Joining Bonus),english|ai|
+166,Devops Engineer,python|rest|ai|ci/cd|vue|node|cloud|devop|docker|kubernetes|aws|system|firebase|
+167,"Frontend Dev (React Native, ReactJS)",english|html|bootstrap|ml|angular|react|node|algorithm|git|agile|
+168,Java Developer (Mid/Senior/Lead) Up1800$,java|rest|postgresql|
+169,Team Lead/Senior/Mid Backend Javascript,java|javascript|ai|angular|react|node|devop|git|test|unit test|automation test|mongodb|postgresql|redis|elasticsearch|scrum|
+170,Automation Tester (Selenium/Java/C#),english|python|c#|java|erp|test|automation test|selenium|agile|
+171,Manual QC/QA/Tester | Sign-on Bonus,english|test|qa|qc|
+172,2 Manual Tester (QA/QC) - Urgent,english|ai|test|qa|qc|
+173,Project Manager - min 40M VND (Agile),agile|scrum|
+174,QC Engineer (Tester) - All Levels,english|test|qc|system|agile|
+175,Lead Java Engineer,java|spring|ios|cloud|system|
+176,Java Developer - Signing Bonus up to 20M,english|java|jenkins|ci/cd|spring|j2ee|react|docker|git|test|unit test|mysql|postgresql|agile|scrum|maven|
+177,"Web Developer (PHP, JavaScript, HTML5)",java|javascript|html|css|php|rest|soap|jquery|asp|.net|ml|ai|spring|angular|react|linux|git|mysql|oracle|mongodb|nosql|
+178,(Junior/Senior) Test Engineer - BONUS,english|responsive|ai|test|automation test|selenium|webdriver|
+179,(Jr/Sr/Principal) .NET Developer - BONUS,english|java|javascript|.net|.net core|ai|angular|react|node|oop|cloud|azure|aws|sql server|
+180,"Mobile Android Developer (Java, UI UX)",java|rest|ai|cloud|git|system|
+181,"Backend Developer (NodeJS, PHP, AWS)",english|java|php|node|aws|system|agile|scrum|
+182,"Senior QA Engineer [Big Data, Remote]",java|javascript|ai|erp|ios|linux|git|test|qa|
+183,"Software Engineer (NodeJS, ReactJS, Go)",react|node|test|system|
+184,Senior Data Analyst,english|python|ml|cloud|aws|
+185,"10 Java Developer (Spring, MySQL)",java|rest|spring|microservice|git|mysql|redis|
+186,".NET Developer (ASP. NET, C#)",typescript|english|c#|java|javascript|html|css|asp|.net|.net core|ml|angular|react|typescript|oop|hybrid|cloud|devop|azure|git|test|unit test|nosql|agile|scrum|
+187,Backend Developer (Golang/ NodeJS/.Net),golang|java|php|.net|ai|jenkins|node|linux|docker|kubernetes|git|mysql|mongodb|redis|
+188,"DevOps Engineer (AWS, MySQL)",ai|oop|devop|linux|docker|kubernetes|hadoop|aws|cassandra|mysql|redis|elasticsearch|
+189,"Frontend Dev (HTML5, CSS, JavaScript)",java|javascript|html|css|ml|laravel|git|
+190,Ruby Engineer (Senior/Middle),typescript|english|ruby|ai|ci/cd|ruby on rails|vue|react|typescript|docker|test|automation test|system|mysql|postgresql|
+191,"ReactJS - Onboard Tháng 1,2",typescript|english|java|javascript|html|css|responsive|rest|bootstrap|ml|ai|react|typescript|git|test|bitbucket|
+192,Golang Engineer (Senior/Middle),english|golang|jquery|ci/cd|vue|react|docker|test|automation test|system|mysql|postgresql|
+193,"Flutter Mobile Dev (Android, iOS)",english|rest|flutter|ios|git|test|unit test|
+194,Data Engineer,python|java|oop|cloud|hadoop|spark|nosql|
+195,Remote: Staff Backend Engineer (Golang),english|golang|rest|ai|test|access|
+196,Python Engineer,english|python|java|oop|hadoop|spark|system|
+197,Remote: Senior Backend Engineer (Golang),english|golang|rest|ai|test|access|
+198,Mobile Lead (React native Preferred),english|react|ios|
+199,Senior C++ Developer (Up to $3000),c++|oop|algorithm|agile|
+200,"Senior Software Tester (Manual, English)",english|ai|test|automation test|
+
